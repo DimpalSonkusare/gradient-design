@@ -1,0 +1,42 @@
+body,html{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+.main-page{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right, #fe6e2f, #f73861);
+    overflow: auto;
+}
+.menubar{
+    width: 80%;
+    overflow: auto;
+    margin: 30px auto;
+    }
+.logo{
+    width: 40%;
+    float: left;
+    overflow: auto;
+}
+.symbol{
+    float: left;
+}
+.awesome{
+    font-size: 23px;
+    color: white;
+    float: left;
+    margin: 15px;
+}
+.menus{
+    width: 40%;
+    float: right;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}

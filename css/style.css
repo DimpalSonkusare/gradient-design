@@ -270,3 +270,251 @@ li2 {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
 }
+
+.ss-sec {
+    width: 100%;
+    margin: 50px 0px;
+    padding: 100px 0px;
+    background-color: #f5fafd;
+}
+
+.section {
+    width: 75%;
+    margin: auto;
+    padding: 10px 0px;
+}
+
+.sec-title {
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+    margin: auto;
+    font-size: 39px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.sec-content {
+    margin: 30px auto;
+    text-align: center;
+}
+
+.ss {
+    width: 100%;
+    margin: 20px 0px;
+    border-radius: 12px;
+    box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
+}
+
+.cards {
+    width: 75%;
+    overflow: auto;
+    margin: 50px auto;
+}
+
+.card-container {
+    width: 25%;
+    float: left;
+    padding: 15px;
+}
+
+.card-1 {
+    width: 100%;
+    background-color: #f5fafd;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px -1px;
+    border-radius: 12px;
+    letter-spacing: 1px;
+}
+
+.card {
+    width: 100%;
+    padding: 5px;
+}
+
+.basic {
+    font-size: 18px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.price-sec {
+    background-color: white;
+    font-size: 28px;
+    padding: 25px 0px;
+    text-align: center;
+}
+
+.dollar {
+    font-size: 21px;
+}
+
+.bold {
+    font-size: 38px;
+}
+
+.small {
+    font-size: 22px;
+}
+
+.user {
+    font-size: 14px;
+    text-align: center;
+    margin: 25px auto;
+    color: #868e96;
+    font-weight: 550;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-footer {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.trial {
+    font-size: 13px;
+    color: #868e96;
+    font-weight: 595;
+    padding: 20px;
+    margin: 20px 0px 0px 0px;
+}
+
+.buy {
+    width: 50%;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    padding: 10px 0px;
+    margin: 0px auto 30px auto;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.bg-img {
+    background-image: linear-gradient(to right, #fe6e2f, #f73861);
+    color: white;
+}
+
+.reviews {
+    width: 100%;
+}
+
+.review-container {
+    width: 75%;
+    margin: 50px auto;
+    overflow: auto;
+}
+
+.customer-review {
+    width: 33.33%;
+    padding: 20px;
+    float: left;
+}
+
+.review-1 {
+    border-radius: 12px;
+    background-color: #f5fafd;
+    width: 100%;
+    padding: 30px;
+    color: #66615b;
+    font-size: 15px;
+    font-weight: 550;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px -4px;
+}
+
+.profile {
+    padding: 10px 20px;
+    background-color: #f5fafd;
+    overflow: auto;
+    border-radius: 12px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px -4px;
+}
+
+.customer-img {
+    float: left;
+    margin: 5px 0px;
+    text-align: center;
+}
+
+.customer-detail {
+    float: left;
+    margin: 5px 0px;
+}
+
+.customer-name {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.profession {
+    margin: 10px;
+    font-weight: 550;
+    font-family: 'Roboto', sans-serif;
+    color: #868e96;
+    font-size: 15px;
+}
+
+.dl-app {
+    width: 100%;
+    padding: 100px 0px;
+    background-image: linear-gradient(to right, #fe6e2f, #f73861);
+}
+
+.dl-container {
+    width: 75%;
+    margin: auto;
+}
+
+.color {
+    color: white;
+}
+.download{
+    width: 100%;
+    overflow: auto;
+}
+.radius{
+    border-radius: 12px;
+}
+.block-1{
+    border-radius: 12px;
+    width: 33.33%;
+    padding: 15px;
+    float: left;
+}
+
+.footer{
+    width: 100%;
+    background-color: #252422;
+}
+.footer-container{
+    width: 75%;
+    margin: auto;
+}
+.social-media{
+    width: 23%;
+    margin: auto;
+    overflow: auto;
+    padding: 50px 0px 20px 0px;
+    text-align: center;
+}
+.icon{
+    float: left;
+}
+.copyright{
+    margin: auto;
+    text-align: center;
+    padding: 0px 0px 50px 0px;
+    font-weight: 550;
+    font-family: 'Roboto', sans-serif;
+    color: #dddddd;
+    font-size: 15px;
+}

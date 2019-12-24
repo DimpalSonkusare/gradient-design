@@ -33,7 +33,7 @@ html {
 }
 
 .awesome {
-    font-size: 20px;
+    font-size: 24px;
     color: white;
     float: left;
     margin: 12px 15px;
@@ -52,7 +52,7 @@ li {
     display: inline-block;
     padding: 5px 12px;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 12px;
     text-decoration: none;
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
@@ -62,7 +62,7 @@ li {
     text-decoration: none;
     color: white;
     padding: 20px 0px;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 .button {
@@ -81,9 +81,11 @@ li {
 .padding {
     padding: 0px 0px;
 }
-.margin{
+
+.margin {
     margin: 5px 0px 0px 0px;
 }
+
 .desc {
     width: 50%;
     padding: 20px 0px;
@@ -93,29 +95,37 @@ li {
     font-weight: 600;
     letter-spacing: 1px;
 }
-p{
+
+p {
     font-weight: 550;
     font-size: 15px;
-    margin: 10px 0px;
+    margin: 8px 0px;
     font-family: 'Roboto', sans-serif;
 }
+
+h1 {
+    font-size: 50px;
+}
+
 .image {
     height: 11px;
 }
-li1{
+
+li1 {
     padding: 5px 0px;
     display: inline-block;
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 14px;
 }
+
 .start {
     width: 30%;
     text-align: center;
     color: white;
-    font-size: 15px;
+    font-size: 12px;
     padding: 10px 0px;
-    margin: 60px 0px;
+    margin: 60px 0px 30px 0px;
     border-style: solid;
     border-radius: 20px;
 }
@@ -124,5 +134,139 @@ li1{
     width: 50%;
     padding: 0px 10px;
     float: left;
-    text-align: center;
+    text-align: right;
+}
+
+.product-details {
+    width: 100%;
+}
+
+.product {
+    width: 75%;
+    margin: auto;
+    overflow: auto;
+    padding: 100px 0px;
+}
+
+.product-1 {
+    width: 33.33%;
+    float: left;
+    padding: 10px 0px;
+}
+
+.pro-img {
+    float: left;
+    margin: 5px 15px;
+}
+
+.pro-detail {
+    width: 75%;
+    float: left;
+}
+
+.pro-title {
+    margin: 0px 20px 20px 20px;
+    font-size: 22px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.pro-content {
+    margin: 15px;
+    color: #868e96;
+    font-weight: 550;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.product-2 {
+    float: left;
+    width: 33.33%;
+    padding: 10px 0px;
+}
+
+.product-3 {
+    float: left;
+    width: 33.33%;
+    padding: 10px 0px;
+}
+
+.product-4 {
+    float: left;
+    width: 33.33%;
+    padding: 10px 0px;
+}
+
+.product-5 {
+    float: left;
+    width: 33.33%;
+    padding: 10px 0px;
+}
+
+.product-6 {
+    float: left;
+    width: 33.33%;
+    padding: 10px 0px;
+}
+
+.pro-features {
+    width: 100%;
+    margin: 100px 0px 50px 0px;
+}
+
+.pro-feature {
+    width: 75%;
+    margin: auto;
+    overflow: auto;
+}
+
+.mob-img {
+    width: 50%;
+    float: left;
+}
+
+.mob-detail {
+    width: 50%;
+    float: left;
+}
+
+.feature-title {
+    width: 50%;
+    padding: 10px 0px;
+    float: left;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+p1 {
+    font-weight: 550;
+    font-size: 15px;
+    margin: 8px 0px;
+    color: #66615b;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.image1 {
+    height: 11px;
+    margin: 0px 10px 0px 0px;
+}
+
+margin1 {
+    margin: 5px 0px 0px 0px;
+    color: #66615b;
+}
+
+li2 {
+    padding: 5px 0px;
+    display: inline-block;
+    font-weight: 550;
+    color: #66615b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
 }

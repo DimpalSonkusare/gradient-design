@@ -57,6 +57,9 @@ li {
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
 }
+.black{
+    color: black;
+}
 
 .dl {
     text-decoration: none;
@@ -420,6 +423,7 @@ li2 {
     width: 100%;
     padding: 30px;
     color: #66615b;
+    word-spacing: 3px;
     font-size: 15px;
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
@@ -444,7 +448,6 @@ li2 {
 
 .customer-detail {
     float: left;
-    margin: 5px 0px;
 }
 
 .customer-name {

@@ -248,6 +248,7 @@ p1 {
     font-size: 15px;
     margin: 8px 0px;
     color: #66615b;
+    line-height: 1.5;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -421,45 +422,41 @@ li2 {
     border-radius: 12px;
     background-color: #f5fafd;
     width: 100%;
-    padding: 30px;
+    padding: 30px 30px 0px 30px;
     color: #66615b;
-    word-spacing: 3px;
     font-size: 15px;
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px -4px;
+    line-height: 1.5;
 }
 
 .profile {
-    padding: 10px 20px;
+    margin: 10px 0px;
     background-color: #f5fafd;
     overflow: auto;
-    border-radius: 12px;
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px -4px;
 }
 
 .customer-img {
     float: left;
-    margin: 5px 0px;
+    margin: 10px 10px;
     text-align: center;
 }
 
 .customer-detail {
     float: left;
+    margin: 15px 0px;
 }
 
 .customer-name {
     font-family: 'Dosis', sans-serif;
     font-weight: 600;
-    letter-spacing: 1px;
-    font-size: 22px;
-    margin: 10px;
+    font-size: 20px;
+    margin: 8px;
 }
 
 .profession {
-    margin: 10px;
+    margin: 8px;
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
     color: #868e96;
@@ -503,13 +500,14 @@ li2 {
     margin: auto;
 }
 .social-media{
-    width: 23%;
+    width: 20%;
     margin: auto;
     overflow: auto;
     padding: 50px 0px 20px 0px;
     text-align: center;
 }
 .icon{
+    width: 25%;
     float: left;
 }
 .copyright{

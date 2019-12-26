@@ -278,7 +278,7 @@ li2 {
 .ss-sec {
     width: 100%;
     margin: 50px 0px;
-    padding: 100px 0px;
+    padding: 70px 0px;
     background-color: #f5fafd;
 }
 
@@ -290,7 +290,6 @@ li2 {
 
 .sec-title {
     text-align: center;
-    padding: 20px 0px 10px 0px;
     margin: auto;
     font-size: 39px;
     font-family: 'Dosis', sans-serif;
@@ -313,7 +312,7 @@ li2 {
 .cards {
     width: 75%;
     overflow: auto;
-    margin: 50px auto;
+    margin: 0px auto 50px auto;
 }
 
 .card-container {

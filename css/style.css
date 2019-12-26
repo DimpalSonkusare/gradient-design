@@ -290,6 +290,10 @@ li2 {
     font-weight: 600;
     letter-spacing: 1px;
 }
+.color-grey{
+    color: #66615b;
+    font-size: 13px;
+}
 
 .sec-content {
     margin: 30px auto;

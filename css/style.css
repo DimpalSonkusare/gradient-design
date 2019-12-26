@@ -9,8 +9,17 @@ html {
     box-sizing: border-box;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 0px;
+}
+
 .main-page {
-    width: 100%;
     background-image: linear-gradient(to right, #fe6e2f, #f73861);
     overflow: auto;
 }
@@ -22,10 +31,7 @@ html {
 }
 
 .logo {
-    width: 40%;
     float: left;
-    overflow: auto;
-    text-align: center;
 }
 
 .symbol {
@@ -46,6 +52,8 @@ html {
     float: right;
     color: white;
     font-size: 10px;
+    margin: 15px 0px;
+
 }
 
 li {
@@ -57,17 +65,20 @@ li {
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
 }
-.black1{
+
+.black1 {
     color: black;
     border-style: solid;
     padding: 10px 25px;
     border-radius: 20px;
 }
-.black{
+
+.black {
     color: black;
 }
-.bg-color{
-        background-image: linear-gradient(to right, #fe6e2f, #f73861);
+
+.bg-color {
+    background-image: linear-gradient(to right, #fe6e2f, #f73861);
     padding: 12px 25px;
 }
 
@@ -93,10 +104,11 @@ li {
 
 .padding {
     padding: 0px 0px;
+    margin: 10px 0px;
 }
 
 .margin {
-    margin: 5px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
 .desc {
@@ -138,7 +150,8 @@ padding-2 {
     padding: 10px 0px;
     margin: 60px 0px 30px 0px;
 }
-.fw{
+
+.fw {
     font-weight: 600;
 }
 
@@ -172,13 +185,13 @@ padding-2 {
 }
 
 .pro-detail {
-    width: 75%;
+    width: 65%;
     float: left;
 }
 
 .pro-title {
     margin: 0px 20px 20px 20px;
-    font-size: 22px;
+    font-size: 20px;
     font-family: 'Dosis', sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
@@ -189,7 +202,7 @@ padding-2 {
     color: #868e96;
     font-weight: 550;
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .product-2 {
@@ -255,6 +268,7 @@ padding-2 {
 .p1 {
     color: #66615b;
     line-height: 1.5;
+    font-size: 15;
 }
 
 h1 {
@@ -301,7 +315,8 @@ li2 {
     font-weight: 600;
     letter-spacing: 1px;
 }
-.color-grey{
+
+.color-grey {
     color: #66615b;
     font-size: 13px;
 }
@@ -342,7 +357,7 @@ li2 {
 
 .card {
     width: 100%;
-    padding: 5px;
+    padding: 5px 0px;
 }
 
 .basic {
@@ -478,40 +493,47 @@ li2 {
 .color {
     color: white;
 }
-.download{
+
+.download {
     width: 100%;
     overflow: auto;
 }
-.radius{
+
+.radius {
     border-radius: 12px;
 }
-.block-1{
+
+.block-1 {
     border-radius: 12px;
     width: 33.33%;
     padding: 15px;
     float: left;
 }
 
-.footer{
+.footer {
     width: 100%;
     background-color: #252422;
 }
-.footer-container{
+
+.footer-container {
     width: 75%;
     margin: auto;
 }
-.social-media{
+
+.social-media {
     width: 20%;
     margin: auto;
     overflow: auto;
     padding: 50px 0px 20px 0px;
     text-align: center;
 }
-.icon{
+
+.icon {
     width: 25%;
     float: left;
 }
-.copyright{
+
+.copyright {
     margin: auto;
     text-align: center;
     padding: 0px 0px 50px 0px;
